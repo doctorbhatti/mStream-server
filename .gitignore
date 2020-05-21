@@ -1,5 +1,6 @@
 node_modules/*
-
+LICENSE
+README.md
 image-cache/*
 !image-cache/default.png
 !image-cache/README.md
